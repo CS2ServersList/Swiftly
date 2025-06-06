@@ -21,7 +21,7 @@ CS2ServerList is the premier platform for discovering, tracking, and promoting C
 4. **Open the config file**  
    Edit:  
    ```
-   game/csgo/addons/swiftly/configs//cs2serverlist.json
+   game/csgo/addons/swiftly/configs/cs2serverlist.json
    ```
 
 5. **Get your Server API Key**  
